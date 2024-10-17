@@ -227,13 +227,13 @@ html {
   color: var(--primary);
 }
 
-.thiongo {
+.cynthia {
   width: 250px;
   border-radius: 5px;
   transition: opacity 0.3s ease;
 }
 
-.thiongo:hover {
+.cynthia:hover {
   opacity: 0.6;
   cursor: pointer;
 }
